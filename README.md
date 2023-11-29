@@ -71,9 +71,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/PEPPER-23/PEPPER-23/output/snake.svg" alt="Snake animation" />
 
 ###
 
