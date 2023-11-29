@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Justti Vikky</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/949574246739361812/1179461494291832882/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?ex=6579de1d&is=6567691d&hm=273c91be9f77e51e28a51651f517ed97cbfd451518bc925cfae97aeba2976628&">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pepper-23&label=Profile%20views&color=0e75b6&style=flat" alt="pepper-23" /> </p>
 
