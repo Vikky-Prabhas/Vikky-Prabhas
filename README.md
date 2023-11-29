@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning devOps  and docker 🐳<br>🎯 Goals: live in a realworld and streamer🚀<br>🎲 And ... i play  cricket and bgmi online</p>
 
 ###
@@ -67,10 +71,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PEPPER-23/PEPPER-23/output/snake.svg" alt="Snake animation" />
@@ -92,13 +92,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=tokyonight&username=PEPPER-23" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/317tzgjmqevjhugkbee5hhgafhay">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317tzgjmqevjhugkbee5hhgafhay&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
