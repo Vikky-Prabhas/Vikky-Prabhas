@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/949574246739361812/1179463018799706143/2000_600px.gif?ex=6579df89&is=65676a89&hm=169ea0ed1a68a2949ab2809116611cde0f57f1b81f655b68e85b7418f7b0ef2a&)]
+![MasterHead](https://cdn.discordapp.com/attachments/949574246739361812/1179463018799706143/2000_600px.gif?ex=6579df89&is=65676a89&hm=169ea0ed1a68a2949ab2809116611cde0f57f1b81f655b68e85b7418f7b0ef2a&)
 <h1 align="center">Hi 👋, I'm Justti Vikky</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/949574246739361812/1179461494291832882/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?ex=6579de1d&is=6567691d&hm=273c91be9f77e51e28a51651f517ed97cbfd451518bc925cfae97aeba2976628&">
