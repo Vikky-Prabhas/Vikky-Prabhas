@@ -8,9 +8,6 @@
 
 <h3 align="left">About me</h3>
 
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
