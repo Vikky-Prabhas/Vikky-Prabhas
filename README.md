@@ -40,19 +40,19 @@
 
 ## 📊 GitHub Stats
 
-#<p align="center">
-  #<img src="https://github-readme-stats.vercel.app/api?username=Vikky-Prabhas&show_icons=true&theme=gruvbox" height="170">
-  #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikky-Prabhas&layout=compact&theme=gruvbox" height="170">
-#</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikky-Prabhas&show_icons=true&theme=gruvbox" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikky-Prabhas&layout=compact&theme=gruvbox" height="170">
+</p>
 
 ---
 
 ## 🤝 Let's Connect!
 
-<p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Drop%20me%20a%20message-blue?logo=gmail" /></a>
+##<p align="center">
+  ##<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Drop%20me%20a%20message-blue?logo=gmail" /></a>
   <!-- Add more contacts or socials if you want, or keep it simple -->
-</p>
+##</p>
 
 ---
 
