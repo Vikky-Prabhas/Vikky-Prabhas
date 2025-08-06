@@ -40,10 +40,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikky-Prabhas&show_icons=true&theme=gruvbox" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikky-Prabhas&layout=compact&theme=gruvbox" height="170">
-</p>
+#<p align="center">
+  #<img src="https://github-readme-stats.vercel.app/api?username=Vikky-Prabhas&show_icons=true&theme=gruvbox" height="170">
+  #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikky-Prabhas&layout=compact&theme=gruvbox" height="170">
+#</p>
 
 ---
 
