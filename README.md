@@ -49,10 +49,10 @@
 
 ## 🤝 Let's Connect!
 
-##<p align="center">
-  ##<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Drop%20me%20a%20message-blue?logo=gmail" /></a>
+<p align="center">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Drop%20me%20a%20message-blue?logo=gmail" /></a>
   <!-- Add more contacts or socials if you want, or keep it simple -->
-##</p>
+</p>
 
 ---
 
